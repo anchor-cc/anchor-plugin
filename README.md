@@ -2,10 +2,10 @@
 
 **The productivity toolkit for every AI agent.** You don't need a new AI. You need a home to store and share what it creates.
 
-This plugin connects your AI to [Anchor](https://anchor.cc). Then just ask:
+This plugin connects your AI to [Anchor](https://anchor.cc), a shared drive for you and your agents, where it can securely create, host, and share:
 
-- **Apps, presentations, and documents** that run on live data and stay in sync with it.
-- **Files** in HTML, Markdown, JSON, CSV, and more, hosted privately and shared with exactly the people you pick.
+- **Apps, interactive presentations, and documents** that run on live data from SQL tables or MCP servers.
+- **Files** in HTML, Markdown, SVG, JSON, CSV, and more, hosted privately and shared with exactly the people you pick.
 - **Tables** with typed columns that your AI can design and query with SQL.
 - **Folders** to organize, navigate, and share with a structure you are familiar with.
 
