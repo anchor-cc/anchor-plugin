@@ -13,7 +13,7 @@
 The plugin adds one MCP server, `anchor`, at `https://mcp.anchor.cc/mcp`. It works with any agent that supports MCP; setup guides for every supported agent are at [anchor.cc/supported-agents](https://anchor.cc/supported-agents).
 
 - **Cursor:** install **Anchor** from the [Cursor Marketplace](https://cursor.com/marketplace). Manual setup: [anchor.cc/supported-agents/cursor](https://anchor.cc/supported-agents/cursor).
-- **Claude Code:** clone this repository and run `claude --plugin-dir ./anchor-plugin`. Manual setup: [anchor.cc/supported-agents/claude-code](https://anchor.cc/supported-agents/claude-code).
+- **Claude Code:** run `/plugin marketplace add anchor-cc/anchor-plugin`, then `/plugin install anchor@anchor`. Manual setup: [anchor.cc/supported-agents/claude-code](https://anchor.cc/supported-agents/claude-code).
 - **Any other agent:** add the server URL above to its MCP configuration, as described at [anchor.cc/supported-agents/other](https://anchor.cc/supported-agents/other).
 
 ## Configuration
@@ -29,11 +29,13 @@ There is nothing to configure: no API keys, no environment variables. The first 
 ## Repository layout
 
 ```
-.cursor-plugin/plugin.json        Cursor manifest
-.cursor-plugin/marketplace.json   Lets Cursor import this repository from GitHub
-.claude-plugin/plugin.json        Claude Code manifest
-mcp.json                          MCP server definition, shared by both manifests
-assets/logo.svg                   Marketplace logo
+.cursor-plugin/marketplace.json   Cursor marketplace manifest (lets Cursor import this repository)
+.claude-plugin/marketplace.json   Claude Code marketplace manifest
+plugins/anchor/
+  .cursor-plugin/plugin.json      Cursor plugin manifest
+  .claude-plugin/plugin.json      Claude Code plugin manifest
+  mcp.json                        MCP server definition, shared by both manifests
+  assets/logo.svg                 Marketplace logo
 ```
 
 ## Support
