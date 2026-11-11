@@ -1,0 +1,28 @@
+{
+  "name": "anchor",
+  "version": "1.0.0",
+  "description": "The productivity toolkit for every AI agent. Create, organize, and securely share apps, presentations, documents, files, and SQL tables that stay in sync with your live data.",
+  "author": {
+    "name": "Anchor Technologies, Inc.",
+    "email": "support@anchor.cc",
+    "url": "https://anchor.cc"
+  },
+  "homepage": "https://anchor.cc/mcp",
+  "repository": "https://github.com/anchor-cc/anchor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "anchor",
+    "mcp",
+    "productivity",
+    "apps",
+    "presentations",
+    "documents",
+    "html",
+    "markdown",
+    "tables",
+    "sql",
+    "files",
+    "sharing"
+  ],
+  "mcpServers": "./mcp.json"
+}

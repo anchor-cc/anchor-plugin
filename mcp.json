@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "anchor": {
+      "type": "http",
+      "url": "https://mcp.anchor.cc/mcp"
+    }
+  }
+}
