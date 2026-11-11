@@ -5,12 +5,13 @@
     "email": "support@anchor.cc"
   },
   "metadata": {
-    "description": "Anchor: a shared drive for you and your agents."
+    "description": "Anchor: a shared drive for you and your agents.",
+    "pluginRoot": "plugins"
   },
   "plugins": [
     {
       "name": "anchor",
-      "source": ".",
+      "source": "anchor",
       "description": "Securely create, host, and share apps, presentations, documents, SQL tables, and files from your AI agent."
     }
   ]
