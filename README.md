@@ -29,10 +29,11 @@ There is nothing to configure: no API keys, no environment variables. The first 
 ## Repository layout
 
 ```
-.cursor-plugin/plugin.json   Cursor manifest
-.claude-plugin/plugin.json   Claude Code manifest
-mcp.json                     MCP server definition, shared by both manifests
-assets/logo.svg              Marketplace logo
+.cursor-plugin/plugin.json        Cursor manifest
+.cursor-plugin/marketplace.json   Lets Cursor import this repository from GitHub
+.claude-plugin/plugin.json        Claude Code manifest
+mcp.json                          MCP server definition, shared by both manifests
+assets/logo.svg                   Marketplace logo
 ```
 
 ## Support
