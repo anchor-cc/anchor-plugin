@@ -1,0 +1,28 @@
+{
+  "name": "anchor",
+  "version": "1.0.0",
+  "description": "Anchor lets your AI agent securely create, host, and share apps, interactive presentations, and documents that run on live data, along with SQL tables, HTML, Markdown, SVG, and other files. A shared drive for you and your agents. Learn more at https://anchor.cc/docs.",
+  "author": {
+    "name": "Anchor Technologies, Inc.",
+    "email": "support@anchor.cc",
+    "url": "https://anchor.cc"
+  },
+  "homepage": "https://anchor.cc/mcp",
+  "repository": "https://github.com/anchor-cc/anchor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "anchor",
+    "mcp",
+    "productivity",
+    "apps",
+    "presentations",
+    "documents",
+    "html",
+    "markdown",
+    "tables",
+    "sql",
+    "files",
+    "sharing"
+  ],
+  "mcpServers": "./mcp.json"
+}

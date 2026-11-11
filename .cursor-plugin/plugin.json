@@ -1,0 +1,38 @@
+{
+  "name": "anchor",
+  "displayName": "Anchor",
+  "version": "1.0.0",
+  "description": "Anchor lets Cursor securely create, host, and share apps, interactive presentations, and documents that run on live data from SQL tables or MCP servers, along with SQL tables, HTML, Markdown, SVG, and other files. It is a shared drive for you and your agents: sign in once, with no API keys, and Cursor only ever touches what you can access.",
+  "author": {
+    "name": "Anchor Technologies, Inc.",
+    "email": "support@anchor.cc"
+  },
+  "homepage": "https://anchor.cc/mcp",
+  "repository": "https://github.com/anchor-cc/anchor-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "keywords": [
+    "anchor",
+    "mcp",
+    "productivity",
+    "apps",
+    "presentations",
+    "documents",
+    "html",
+    "markdown",
+    "tables",
+    "sql",
+    "files",
+    "sharing"
+  ],
+  "category": "productivity",
+  "tags": [
+    "anchor",
+    "mcp",
+    "productivity",
+    "documents",
+    "apps",
+    "tables"
+  ],
+  "mcpServers": "./mcp.json"
+}
