@@ -1,6 +1,8 @@
 # Anchor plugin for Cursor
 
-[Anchor](https://anchor.cc) is a shared drive for you and your agents. This plugin adds the Anchor MCP server (`https://mcp.anchor.cc/mcp`) to Cursor, so Cursor can securely create, host, and share apps, presentations, documents, SQL tables, and files.
+[Anchor](https://anchor.cc) is a shared drive for you and your AI agents. This plugin adds the Anchor MCP server (`https://mcp.anchor.cc/mcp`) to Cursor.
+
+Cursor can then host and share your files on Anchor: HTML, Markdown (MD), SVG, PNG, MP4, and more, each with a link you can send to your team. It can also build apps, interactive presentations, and documents that run on live data, and create SQL tables.
 
 ## Install
 
