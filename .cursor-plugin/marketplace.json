@@ -4,14 +4,10 @@
     "name": "Anchor Technologies, Inc.",
     "email": "support@anchor.cc"
   },
-  "metadata": {
-    "description": "Anchor: a shared drive for you and your agents."
-  },
   "plugins": [
     {
       "name": "anchor",
-      "source": ".",
-      "description": "Securely create, host, and share apps, presentations, documents, SQL tables, and files from your AI agent."
+      "source": "."
     }
   ]
 }
