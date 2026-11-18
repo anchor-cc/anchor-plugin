@@ -10,7 +10,7 @@ Follow the steps at [anchor.cc/supported-agents/cursor](https://anchor.cc/suppor
 
 ## Configuration
 
-There is nothing to configure: no API keys, no environment variables. Cursor opens the Anchor sign-in page the first time you connect. Sign in once, and Cursor only ever touches what you can access.
+There is nothing to configure. Cursor opens the Anchor sign-in page the first time you connect. Sign in once, with no API keys. Cursor only touches what you can access.
 
 ## Learn more
 
