@@ -2,7 +2,7 @@
   "name": "anchor",
   "displayName": "Anchor",
   "version": "1.0.0",
-  "description": "Anchor is a shared drive for artifacts: Cursor builds and shares apps, interactive presentations, and documents that run on real data from SQL tables and MCP servers. Cursor can also put any HTML, Markdown (MD), SVG, PNG, or MP4 file on Anchor and share it with your team by link. Sign in once, with no API keys. Cursor only touches what you can access.",
+  "description": "Anchor hosts and shares the artifacts Cursor builds. Ask Cursor for an app, an interactive presentation, or a document that runs on live data from SQL tables and MCP servers, or have it publish any HTML, Markdown (MD), SVG, PNG, or MP4 file. Each one stays private, shared only with the people you pick. Sign in once, with no API keys. Cursor only touches what you can access.",
   "author": {
     "name": "Anchor Technologies, Inc.",
     "email": "support@anchor.cc"
