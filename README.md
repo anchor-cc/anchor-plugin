@@ -1,6 +1,6 @@
 # Anchor plugin for Cursor
 
-[Anchor](https://anchor.cc) is a shared drive for artifacts: Cursor builds and shares apps, interactive presentations, and documents that run on real data from SQL tables and MCP servers. It also hosts your other files, such as HTML, Markdown (MD), SVG, PNG, and MP4, each with a link you can send to your team.
+[Anchor](https://anchor.cc) is a shared drive for artifacts: Cursor builds and shares apps, interactive presentations, and documents that run on real data from SQL tables and MCP servers. Cursor can also put any HTML, Markdown (MD), SVG, PNG, or MP4 file on Anchor and share it with your team by link.
 
 This plugin adds the Anchor MCP server (`https://mcp.anchor.cc/mcp`) to Cursor.
 
