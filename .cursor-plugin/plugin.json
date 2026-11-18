@@ -2,7 +2,7 @@
   "name": "anchor",
   "displayName": "Anchor",
   "version": "1.0.0",
-  "description": "Anchor is a shared drive for you and your AI agents. Cursor can host and share your files there: HTML, Markdown (MD), SVG, PNG, MP4, and more, each with a link you can send to your team. It can also build apps, interactive presentations, and documents that run on live data, and create SQL tables. Sign in once, with no API keys. Cursor only touches what you can access.",
+  "description": "Anchor hosts and shares the artifacts Cursor builds. Ask Cursor for an app, an interactive presentation, or a document that runs on live data from SQL tables and MCP servers, or have it publish any HTML, Markdown (MD), SVG, PNG, or MP4 file. Each one stays private, shared only with the people you pick. Sign in once, with no API keys. Cursor only touches what you can access.",
   "author": {
     "name": "Anchor Technologies, Inc.",
     "email": "support@anchor.cc"
@@ -15,6 +15,7 @@
     "anchor",
     "mcp",
     "productivity",
+    "artifacts",
     "apps",
     "presentations",
     "documents",
@@ -31,6 +32,7 @@
     "anchor",
     "mcp",
     "productivity",
+    "artifacts",
     "documents",
     "apps",
     "tables"
